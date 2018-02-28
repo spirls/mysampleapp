@@ -1,0 +1,18 @@
+.black-border{
+position:relative;
+	border:1px solid #999;
+	height:250px;
+}
+.mask-left-half{
+width:50%;
+height:101%;
+top:-1px;
+right:-1px;
+position:absolute;
+background-color:white;
+}
+.text{
+	position:absolute;
+	z-index:999;
+	padding:30px 10px;
+}
